@@ -1,6 +1,6 @@
 {
   "name": "@davzon/react-country-state-city",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "React-country-state-city allows you to create a Select dropdown for countries, states, cities with search options.",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",

@@ -16,7 +16,7 @@ exports[`Common render should render correctly without crash 1`] = `
       onClick={[Function]}
     >
       <input
-        autoComplete="off"
+        autoComplete="new-password"
         onChange={[Function]}
         value=""
       />
