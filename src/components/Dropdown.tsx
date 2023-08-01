@@ -111,6 +111,7 @@ const Dropdown = ({
           placeholder={placeHolder}
           ref={searchRef}
           autoComplete="new-password"
+          tabIndex={-1}
         />
         <div className={"stdropdown-tools"}>
           <div className={"stdropdown-tool"}>

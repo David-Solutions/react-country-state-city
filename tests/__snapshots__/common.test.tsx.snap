@@ -18,6 +18,7 @@ exports[`Common render should render correctly without crash 1`] = `
       <input
         autoComplete="new-password"
         onChange={[Function]}
+        tabIndex={-1}
         value=""
       />
       <div
